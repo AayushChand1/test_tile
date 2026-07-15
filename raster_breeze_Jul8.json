@@ -78,7 +78,7 @@
       "type": "fill",
       "source": "boundary_tiles",
       "source-layer": "baato_boundary_world_land",
-      "maxzoom": 24,
+      "maxzoom": 14,
       "filter": ["all", ["==", "name", "Nepal"]],
       "layout": {"visibility": "visible"},
       "paint": {
